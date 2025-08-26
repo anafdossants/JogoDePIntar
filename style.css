@@ -3,7 +3,8 @@ body {
     font-family: sans-serif;
     text-align: center;
     color: black;
-    background-image: url(imagemfundo.avif);
+
+    
   }
   
   h1 {
@@ -41,4 +42,5 @@ body {
     background-color: red;
     color: white;
   }
+
   
